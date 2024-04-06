@@ -1,0 +1,16 @@
+npm install -g jest to install globally
+
+
+npx jest    to run test   this will run whole test in sibling and folder
+
+npx jest /anagrams/test.js  to specified code one file being in parent folder also will run once after that we have to check again and again	
+
+npx jest /anagrams/test.js --watch        automatic test on enter means rerun on enter detect automatically 
+
+
+npm list jest to see the version
+
+
+https://github.com/StephenGrider/AlgoCasts   -- Stephen Grider's Repository for exercises and all.
+
+see video on debugger in reverse string folder must know 
